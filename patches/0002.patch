@@ -1,0 +1,10 @@
+diff --git a/program/main.py b/program/main.py
+index 73bd701..f4a1e9d 100644
+--- a/program/main.py
++++ b/program/main.py
+@@ -1,2 +1,2 @@
+ if __name__ == "__main__":
+-    pass
++    from program.hello import hello
+--
+2.32.0 (Skynet Git-132)

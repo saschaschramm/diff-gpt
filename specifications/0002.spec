@@ -1,0 +1,1 @@
+In main.py replace the pass statement with the import of hello from program.hello.
