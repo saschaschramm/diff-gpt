@@ -10,7 +10,7 @@ from logging import Logger
 logger: Logger = get_logger()
 
 def generate_commit(prompt: str, temperature: float) -> str:
-    completion: Completion = Completion(engine="text-davinci-002", 
+    completion: Completion = Completion(engine="code-davinci-002", 
                                         max_completion_tokens=200, 
                                         temperature=temperature, 
                                         stop=["\n2.32.0"])

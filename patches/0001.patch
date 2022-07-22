@@ -1,6 +1,6 @@
 diff --git a/program/hello.py b/program/hello.py
 new file mode 100644
-index 0000000..d7927f6
+index 0000000..5e7afc0
 --- /dev/null
 +++ b/program/hello.py
 @@ -0,0 +1,2 @@
